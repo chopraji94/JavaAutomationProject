@@ -1,0 +1,12 @@
+E:\JavaAutomationProject\project_01\src\test\java\pageObjects\AccountRegistrationPage.java
+E:\JavaAutomationProject\project_01\src\test\java\pageObjects\BasePage.java
+E:\JavaAutomationProject\project_01\src\test\java\pageObjects\HomePage.java
+E:\JavaAutomationProject\project_01\src\test\java\pageObjects\LoginPage.java
+E:\JavaAutomationProject\project_01\src\test\java\pageObjects\LogoutPage.java
+E:\JavaAutomationProject\project_01\src\test\java\testBase\BaseClass.java
+E:\JavaAutomationProject\project_01\src\test\java\testCases\TC001_AccountRegistrationTest.java
+E:\JavaAutomationProject\project_01\src\test\java\testCases\TC001_LoginTest.java
+E:\JavaAutomationProject\project_01\src\test\java\testCases\TC_002_LoginDDT.java
+E:\JavaAutomationProject\project_01\src\test\java\utilities\DataProviders.java
+E:\JavaAutomationProject\project_01\src\test\java\utilities\ExcelUtility.java
+E:\JavaAutomationProject\project_01\src\test\java\utilities\ExtentReportManager.java
